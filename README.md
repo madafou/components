@@ -2,12 +2,12 @@
 
 ## Project setup
 ```
-yarn install
+yarn install  或  npm run install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn dev 或 npm run dev
 ```
 
 ### Compiles and minifies for production
